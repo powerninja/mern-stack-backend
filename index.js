@@ -6,8 +6,15 @@ app.get("/", (req, res) => {
 });
 
 //ITEM functions
+//Create Item
+//Read All Items
+//Read Single Item
+//Update Item
+//Delete Item
 
 // USER functions
+//Register User
+//Login User
 
 app.listen(5050, () => {
   console.log("server is listening on port 5050...");
